@@ -1,0 +1,10 @@
+{
+  "vocab_size": 12000,
+  "d_model": 192,
+  "num_heads": 6,
+  "num_layers": 3,
+  "d_ff": 384,
+  "max_len": 80,
+  "dropout": 0.05,
+  "pad_idx": 0
+}
